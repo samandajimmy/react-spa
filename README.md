@@ -22,11 +22,10 @@ React is a JavaScript library for building user interfaces.
 
 [Learn how to use React in your own project](https://facebook.github.io/react/docs/getting-started.html).
 
-# Web Application Concept
-# Flux
+# Introducing Flux Application Architecture for React
 An application architecture for React utilizing a unidirectional data flow.
 
-<img src="./docs/img/flux-diagram-white-background.png" style="width: 100%;" />
+<img src="https://github.com/facebook/flux/blob/master/docs/img/flux-diagram-white-background.png" style="width: 100%;" />
 
 # How to Install
 - clone the project
